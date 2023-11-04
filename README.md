@@ -12,7 +12,7 @@ The second phase focuses on feature evaluation and selection. You will implement
 
 ## Final Phase - Seizure Detection with Neural Networks
 
-The final phase brings together the knowledge gained from previous phases and combines it with the implementation of a neural network. Your task is to create a system that can differentiate seizure data from normal data in a new dataset using EEG signals. This project can be done in groups of two. It involves dataset preparation, classification using a convolutional neural network, and the presentation of results. For more details on this phase, please read the [Project Final Phase README](Phase3:seizure-detection-using-CNN/readme.md).
+The final phase brings together the knowledge gained from previous phases and combines it with the implementation of a neural network. Your task is to create a system that can differentiate seizure data from normal data in a new dataset using EEG signals. This project can be done in groups of two. It involves dataset preparation, classification using a convolutional neural network, and the presentation of results. For more details on this phase, please read the [Project Final Phase README](/Phase3:seizure-detection-using-CNN/readme.md).
 
 ## Project Authors
 
