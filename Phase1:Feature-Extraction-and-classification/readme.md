@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Seizure Detection System</title>
-</head>
+
 <body>
 
 <h1>Seizure Detection System</h1>
