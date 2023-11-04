@@ -4,7 +4,7 @@ This repository contains the code and documentation for a series of projects in 
 
 ## Phase 1 - Seizure Detection
 
-In the first phase, the goal is to implement an intelligent system for detecting seizures in epileptic patients using EEG signals. A dataset of EEG signals is provided, and you are required to preprocess the data, extract features, and improve the features' performance. You will classify the signals to achieve the final goal of seizure detection. For more details on this phase, please read the [Project Phase 1 README]([phase1/README.md](https://github.com/sajad002/CAI-Fall-2022/blob/main/Phase1%3AFeature-Extraction-and-classification/readme.md)).
+In the first phase, the goal is to implement an intelligent system for detecting seizures in epileptic patients using EEG signals. A dataset of EEG signals is provided, and you are required to preprocess the data, extract features, and improve the features' performance. You will classify the signals to achieve the final goal of seizure detection. For more details on this phase, please read the [Project Phase 1 README](https://github.com/sajad002/CAI-Fall-2022/blob/main/Phase1%3AFeature-Extraction-and-classification/readme.md).
 
 ## Phase 2 - Feature Evaluation and Selection
 
