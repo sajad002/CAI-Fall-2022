@@ -8,12 +8,11 @@ In the first phase, the goal is to implement an intelligent system for detecting
 
 ## Phase 2 - Feature Evaluation and Selection
 
-The second phase focuses on feature evaluation and selection. You will implement a comprehensive feature selection method, evaluating features based on their individual performance and how different they are from each other. You will also discuss the reasons behind feature selection and which features carried information while eliminating redundancies. For more details on this phase, please read the [Project Phase 2 README]([phase2/README.md](https://github.com/sajad002/CAI-Fall-2022/blob/main/Phase2%3Afeature-Selection-and-improving-classification-using-clustering/readme.md)).
+The second phase focuses on feature evaluation and selection. You will implement a comprehensive feature selection method, evaluating features based on their individual performance and how different they are from each other. You will also discuss the reasons behind feature selection and which features carried information while eliminating redundancies. For more details on this phase, please read the [Project Phase 2 README](/Phase2:feature-Selection-and-improving-classification-using-clustering/readme.md).
 
 ## Final Phase - Seizure Detection with Neural Networks
 
-The final phase brings together the knowledge gained from previous phases and combines it with the implementation of a neural network. Your task is to create a system that can differentiate seizure data from normal data in a new dataset using EEG signals. This project can be done in groups of two. It involves dataset preparation, classification using a convolutional neural network, and the presentation of results. For more details on this phase, please read the [Project Final Phase README]([Phase3:seizure-detection-using-CNN
-/readme.md](https://github.com/sajad002/CAI-Fall-2022/blob/main/Phase3%3Aseizure-detection-using-CNN/readme.md)).
+The final phase brings together the knowledge gained from previous phases and combines it with the implementation of a neural network. Your task is to create a system that can differentiate seizure data from normal data in a new dataset using EEG signals. This project can be done in groups of two. It involves dataset preparation, classification using a convolutional neural network, and the presentation of results. For more details on this phase, please read the [Project Final Phase README](Phase3:seizure-detection-using-CNN/readme.md).
 
 ## Project Authors
 
