@@ -16,8 +16,8 @@ The final phase brings together the knowledge gained from previous phases and co
 
 ## Project Authors
 
-- Sajjad shaffaf
-- Amir Hesari
+- [Sajjad shaffaf](https://github.com/sajad002)
+- [Amir Hesari](https://github.com/Amir1848)
 
 ## Project Structure
 
