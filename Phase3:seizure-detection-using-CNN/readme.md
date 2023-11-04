@@ -5,7 +5,7 @@
 <h1>Final Phase of Computational Intelligence Project</h1>
 
 <p>In this final phase, you are required to apply your knowledge from the previous phases, along with implementing a neural network to differentiate seizure data from normal data in a new dataset. This project can be carried out in groups of two.</p>
-
+- [Implemented Code and Dataset on Google Drive](https://drive.google.com/drive/folders/1owPXAQxT8yDFJzPdjghyaM1bV4Fi1tTa?usp=sharing)
 <h2>1- Dataset Preparation</h2>
 
 <p>In the initial stage, you must load the dataset and prepare it for classification. You can access the dataset from the following link:</p>
