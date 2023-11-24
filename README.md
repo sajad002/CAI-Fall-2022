@@ -42,3 +42,22 @@ This project aims to develop a predictive model for cancer level based on lifest
 
 ```bash
 pip install tensorflow scikit-learn nltk mlxtend
+```
+
+To install Hugging Face or sentence-transformers, follow their respective installation instructions.
+
+## Usage
+```python
+python main.py
+```
+
+This will execute the project's workflow, including data preprocessing, feature extraction, model training, and evaluation.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
+
+## License
+
+MIT License
+
