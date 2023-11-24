@@ -1,63 +1,28 @@
-# Cancer Prediction with Lifestyle Factors
+# Computational Artificial Intelligence Projects - Fall-2022
 
-This project aims to develop a predictive model for cancer level based on lifestyle factors. The project is divided into three phases:
+This repository contains the code and documentation for a series of projects in the field of computational intelligence. The projects are part of a course and are divided into different phases.
 
-## Phase 1: Data Preprocessing
+## Phase 1 - Seizure Detection
 
-### Tasks
+In the first phase, the goal is to implement an intelligent system for detecting seizures in epileptic patients using EEG signals. A dataset of EEG signals is provided, and you are required to preprocess the data, extract features, and improve the features' performance. You will classify the signals to achieve the final goal of seizure detection. For more details on this phase, please read the [Project Phase 1 README](/Phase1:Feature-Extraction-and-classification/readme.md).
 
-* Handle missing values
-* Identify and remove outliers for numerical data
-* Perform data reduction if necessary
-* Convert numerical data to categorical data if necessary
-* Perform stemming, lemmatizing, and stop-word removal for text data if necessary
-* Conduct a series of statistical comparisons based on the dataset
+## Phase 2 - Feature Evaluation and Selection
 
-## Phase 2: Extracting Frequent Patterns
+The second phase focuses on feature evaluation and selection. You will implement a comprehensive feature selection method, evaluating features based on their individual performance and how different they are from each other. You will also discuss the reasons behind feature selection and which features carried information while eliminating redundancies. For more details on this phase, please read the [Project Phase 2 README](/Phase2:feature-Selection-and-improving-classification-using-clustering/readme.md).
 
-### Tasks
+## Final Phase - Seizure Detection with Neural Networks
 
-* Extract frequent patterns from the clean dataset obtained from Phase 1
-* Utilize relevant frequent pattern mining libraries, such as mlxtend
+The final phase brings together the knowledge gained from previous phases and combines it with the implementation of a neural network. Your task is to create a system that can differentiate seizure data from normal data in a new dataset using EEG signals. This project can be done in groups of two. It involves dataset preparation, classification using a convolutional neural network, and the presentation of results. For more details on this phase, please read the [Project Final Phase README](/Phase3:seizure-detection-using-CNN/readme.md).
 
-## Phase 3: Classification and Clustering
+## Project Authors
 
-### Tasks
+- [Sajjad shaffaf](https://github.com/sajad002)
+- [Amir Hesari](https://github.com/Amir1848)
 
-* Transform clean text data into vectors using BERT if data is text-based
-* Perform clustering on the dataset using appropriate algorithms
-* Implement classification based on the defined classification problem for each group
-* Reserve a portion of the dataset for testing the implemented classification
+## Project Structure
 
-## Requirements
+The project is organized into different directories for each phase, and you can find more detailed information within each phase's README.
 
-* Python
-* TensorFlow
-* scikit-learn
-* nltk (for text preprocessing)
-* mlxtend (for frequent pattern mining)
-* Hugging Face or sentence-transformers (for BERT text embedding)
+Feel free to explore the source code and documentation in the respective project directories.
 
-## Installation
-
-```bash
-pip install tensorflow scikit-learn nltk mlxtend
-```
-
-To install Hugging Face or sentence-transformers, follow their respective installation instructions.
-
-## Usage
-```python
-python main.py
-```
-
-This will execute the project's workflow, including data preprocessing, feature extraction, model training, and evaluation.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
-
-## License
-
-MIT License
-
+**Note:** The project details and specifications are part of a course and are intended for educational purposes.
